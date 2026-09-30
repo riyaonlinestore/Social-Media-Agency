@@ -200,5 +200,4 @@ function Comments({ setPage, handleLogout }) {
     </div>
   );
 }
-
 export default Comments;
